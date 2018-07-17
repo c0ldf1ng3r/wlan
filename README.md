@@ -7,3 +7,7 @@ How this work. App:
 3. Create fifo file named rtx-send to with we can write to send data.
 4. Create fifo file named rtx-recive from with we can get the data from another device that runs this software.
 
+Flight videos:
+* https://www.youtube.com/watch?v=PFJbesThBm0
+* https://www.youtube.com/watch?v=48G8gu4woYM
+* https://www.youtube.com/watch?v=jC0l_ZlsRcw
